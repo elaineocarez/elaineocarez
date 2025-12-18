@@ -49,6 +49,6 @@ Still learning, still coding, still improving every day 🌱
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=elaineocarez&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elaineocarez&show_icons=true&theme=github_dark&border_radius=15)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elaineocarez&layout=compact&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elaineocarez&layout=compact&theme=github_dark&border_radius=15)
