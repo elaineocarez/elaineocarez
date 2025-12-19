@@ -71,8 +71,8 @@ My main project is a **Clothing Item Identifier App**, developed using **Flutter
 
 <div align="center">
 
-| Home | Scan | Result | History |
-|:----:|:----:|:------:|:-------:|
+| Home | Scan | History |
+|:----:|:----:|:------:|
 | [<img src="Application_Screenshots/home.jpg" width="230" />](https://github.com/elaineocarez/elaineocarez/blob/main/Application_Screenshots/home.jpg?raw=true) | [<img src="Application_Screenshots/Scanning.jpg" width="230" />](https://github.com/elaineocarez/elaineocarez/blob/main/Application_Screenshots/Scanning.jpg?raw=true) | [<img src="Application_Screenshots/Scan_History.jpg" width="230" />](https://github.com/elaineocarez/elaineocarez/blob/main/Application_Screenshots/History.jpg?raw=true) |
 
 </div>
