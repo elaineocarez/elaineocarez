@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "129311426557",
+    "firebase_url": "https://ocarez-clothingitemclassifier-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ocarez-clothingitemclassifier",
+    "storage_bucket": "ocarez-clothingitemclassifier.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129311426557:android:5c1733181ddaeacfaf7b94",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMqWvzVaASd3k-vXj_PRSekN-eYW_C3HY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

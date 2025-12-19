@@ -1,0 +1,10 @@
+0 Jacket
+1 Shirt
+2 Polo Shirt
+3 Skirt
+4 Shorts
+5 Pants
+6 Socks
+7 Shoes
+8 Cap
+9 Dress
