@@ -75,7 +75,7 @@ My main project is a **Clothing Item Identifier App**, developed using **Flutter
 
 | Home | Scan | Result | History |
 |:----:|:----:|:------:|:-------:|
-| [<img src="Application_Screenshots/Home_Page.jpg" width="230" />](https://github.com/elaineocarez/elaineocarez/blob/main/Application_Screenshots/home.jpg?raw=true) | [<img src="Application_Screenshots/Scan_Page.jpg" width="230" />](https://github.com/elaineocarez/elaineocarez/blob/main/Application_Screenshots/Scanning.jpg?raw=true) | [<img src="Application_Screenshots/History_Page.jpg" width="230" />](https://github.com/elaineocarez/elaineocarez/blob/main/Application_Screenshots/Scan%20History.jpg?raw=true) |
+| [<img src="Application_Screenshots/home.jpg" width="230" />](https://github.com/elaineocarez/elaineocarez/blob/main/Application_Screenshots/home.jpg?raw=true) | [<img src="Application_Screenshots/Scanning.jpg" width="230" />](https://github.com/elaineocarez/elaineocarez/blob/main/Application_Screenshots/Scanning.jpg?raw=true) | [<img src="Application_Screenshots/Scan History.jpg" width="230" />](https://github.com/elaineocarez/elaineocarez/blob/main/Application_Screenshots/Scan%20History.jpg?raw=true) |
 
 </div>
 
@@ -88,16 +88,16 @@ My main project is a **Clothing Item Identifier App**, developed using **Flutter
 
 | Item | Preview | Description |
 |:-----|:-------:|:------------|
-| **Jacket** | [<img src="Clothing_Classes_Images/Jacket.jpg" width="140" />]https://github.com/elaineocarez/elaineocarez/blob/main/Class_Images/jacket.jpg?raw=true | Outerwear worn for warmth or style |
-| **Shorts** | [<img src="Clothing_Classes_Images/Shorts.jpg" width="140" />]https://github.com/elaineocarez/elaineocarez/blob/main/Class_Images/shorts.jpg?raw=true | Casual lower garment, usually worn in warm weather |
-| **Shirt** | [<img src="Clothing_Classes_Images/Shirt.jpg" width="140" />]https://github.com/elaineocarez/elaineocarez/blob/main/Class_Images/shirt.jpg?raw=true | Common upper garment for daily use |
-| **Pants** | [<img src="Clothing_Classes_Images/Pants.jpg" width="140" />]https://github.com/elaineocarez/elaineocarez/blob/main/Class_Images/pants.jpg?raw=true | Full-length lower garment |
-| **Shoes** | [<img src="Clothing_Classes_Images/Shoes.jpg" width="140" />]https://github.com/elaineocarez/elaineocarez/blob/main/Class_Images/shoes.jpg?raw=true | Footwear designed for protection and comfort |
-| **Skirt** | [<img src="Clothing_Classes_Images/Skirt.jpg" width="140" />]https://github.com/elaineocarez/elaineocarez/blob/main/Class_Images/skirt.jpg?raw=true | Lower garment typically worn by women |
-| **Socks** | [<img src="Clothing_Classes_Images/Socks.jpg" width="140" />]https://github.com/elaineocarez/elaineocarez/blob/main/Class_Images/socks.jpg?raw=true | Foot garment worn inside shoes |
-| **Polo Shirt** | [<img src="Clothing_Classes_Images/Polo_Shirt.jpg" width="140" />]https://github.com/elaineocarez/elaineocarez/blob/main/Class_Images/polo%20shirt.jpg?raw=true | Shirt with collar, casual-formal style |
-| **Cap** | [<img src="Clothing_Classes_Images/Cap.jpg" width="140" />]https://github.com/elaineocarez/elaineocarez/blob/main/Class_Images/cap.jpg?raw=true | Headwear for fashion or sun protection |
-| **Dress** | [<img src="Clothing_Classes_Images/Dress.jpg" width="140" />]https://github.com/elaineocarez/elaineocarez/blob/main/Class_Images/dress.jpg?raw=true | One-piece garment worn mainly by women |
+| **Jacket** | [<img src="Class_Images/Jacket.jpg" width="140" />]https://github.com/elaineocarez/elaineocarez/blob/main/Class_Images/jacket.jpg?raw=true | Outerwear worn for warmth or style |
+| **Shorts** | [<img src="Class_Images/Shorts.jpg" width="140" />]https://github.com/elaineocarez/elaineocarez/blob/main/Class_Images/shorts.jpg?raw=true | Casual lower garment, usually worn in warm weather |
+| **Shirt** | [<img src="Class_Images/Shirt.jpg" width="140" />]https://github.com/elaineocarez/elaineocarez/blob/main/Class_Images/shirt.jpg?raw=true | Common upper garment for daily use |
+| **Pants** | [<img src="Class_Images/Pants.jpg" width="140" />]https://github.com/elaineocarez/elaineocarez/blob/main/Class_Images/pants.jpg?raw=true | Full-length lower garment |
+| **Shoes** | [<img src="Class_Images/Shoes.jpg" width="140" />]https://github.com/elaineocarez/elaineocarez/blob/main/Class_Images/shoes.jpg?raw=true | Footwear designed for protection and comfort |
+| **Skirt** | [<img src="Class_Images/Skirt.jpg" width="140" />]https://github.com/elaineocarez/elaineocarez/blob/main/Class_Images/skirt.jpg?raw=true | Lower garment typically worn by women |
+| **Socks** | [<img src="Class_Images/Socks.jpg" width="140" />]https://github.com/elaineocarez/elaineocarez/blob/main/Class_Images/socks.jpg?raw=true | Foot garment worn inside shoes |
+| **Polo Shirt** | [<img src="Class_Images/Polo_Shirt.jpg" width="140" />]https://github.com/elaineocarez/elaineocarez/blob/main/Class_Images/polo%20shirt.jpg?raw=true | Shirt with collar, casual-formal style |
+| **Cap** | [<img src="Class_Images/Cap.jpg" width="140" />]https://github.com/elaineocarez/elaineocarez/blob/main/Class_Images/cap.jpg?raw=true | Headwear for fashion or sun protection |
+| **Dress** | [<img src="Class_Images/Dress.jpg" width="140" />]https://github.com/elaineocarez/elaineocarez/blob/main/Class_Images/dress.jpg?raw=true | One-piece garment worn mainly by women |
 
 </div>
 
