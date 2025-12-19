@@ -85,16 +85,16 @@ My main project is a **Clothing Item Identifier App**, developed using **Flutter
 
 | Item | Preview | Description |
 |:-----|:-------:|:------------|
-| **Jacket** | [<img src="Class_Images/Jacket.jpg" width="140" />](https://github.com/elaineocarez/Ocarez_Clothing_Item_Classifier_Classification_FinalProject/raw/main/Class_Images/jacket.jpg) | Outerwear worn for warmth or style |
-| **Shorts** | [<img src="Class_Images/Shorts.jpg" width="140" />](https://github.com/elaineocarez/Ocarez_Clothing_Item_Classifier_Classification_FinalProject/raw/main/Class_Images/shorts.jpg) | Casual lower garment, usually worn in warm weather |
-| **Shirt** | [<img src="Class_Images/Shirt.jpg" width="140" />](https://github.com/elaineocarez/Ocarez_Clothing_Item_Classifier_Classification_FinalProject/raw/main/Class_Images/shirt.jpg) | Common upper garment for daily use |
-| **Pants** | [<img src="Class_Images/Pants.jpg" width="140" />](https://github.com/elaineocarez/Ocarez_Clothing_Item_Classifier_Classification_FinalProject/raw/main/Class_Images/pants.jpg) | Full-length lower garment |
-| **Shoes** | [<img src="Class_Images/Shoes.jpg" width="140" />](https://github.com/elaineocarez/Ocarez_Clothing_Item_Classifier_Classification_FinalProject/raw/main/Class_Images/shoes.jpg) | Footwear designed for protection and comfort |
-| **Skirt** | [<img src="Class_Images/Skirt.jpg" width="140" />](https://github.com/elaineocarez/Ocarez_Clothing_Item_Classifier_Classification_FinalProject/raw/main/Class_Images/skirt.jpg) | Lower garment typically worn by women |
-| **Socks** | [<img src="Class_Images/Socks.jpg" width="140" />](https://github.com/elaineocarez/Ocarez_Clothing_Item_Classifier_Classification_FinalProject/raw/main/Class_Images/socks.jpg) | Foot garment worn inside shoes |
-| **Polo Shirt** | [<img src="Class_Images/Polo_Shirt.jpg" width="140" />](https://github.com/elaineocarez/Ocarez_Clothing_Item_Classifier_Classification_FinalProject/raw/main/Class_Images/polo_shirt.jpg) | Shirt with collar, casual-formal style |
-| **Cap** | [<img src="Class_Images/Cap.jpg" width="140" />](https://github.com/elaineocarez/Ocarez_Clothing_Item_Classifier_Classification_FinalProject/raw/main/Class_Images/cap.jpg) | Headwear for fashion or sun protection |
-| **Dress** | [<img src="Class_Images/Dress.jpg" width="140" />](https://github.com/elaineocarez/Ocarez_Clothing_Item_Classifier_Classification_FinalProject/raw/main/Class_Images/dress.jpg) | One-piece garment worn mainly by women |
+| **Jacket** | [<img src="Class_Images/jacket.jpg" width="140" />](https://github.com/elaineocarez/Ocarez_Clothing_Item_Classifier_Classification_FinalProject/raw/main/Class_Images/jacket.jpg) | Outerwear worn for warmth or style |
+| **Shorts** | [<img src="Class_Images/shorts.jpg" width="140" />](https://github.com/elaineocarez/Ocarez_Clothing_Item_Classifier_Classification_FinalProject/raw/main/Class_Images/shorts.jpg) | Casual lower garment, usually worn in warm weather |
+| **Shirt** | [<img src="Class_Images/shirt.jpg" width="140" />](https://github.com/elaineocarez/Ocarez_Clothing_Item_Classifier_Classification_FinalProject/raw/main/Class_Images/shirt.jpg) | Common upper garment for daily use |
+| **Pants** | [<img src="Class_Images/pants.jpg" width="140" />](https://github.com/elaineocarez/Ocarez_Clothing_Item_Classifier_Classification_FinalProject/raw/main/Class_Images/pants.jpg) | Full-length lower garment |
+| **Shoes** | [<img src="Class_Images/shoes.jpg" width="140" />](https://github.com/elaineocarez/Ocarez_Clothing_Item_Classifier_Classification_FinalProject/raw/main/Class_Images/shoes.jpg) | Footwear designed for protection and comfort |
+| **Skirt** | [<img src="Class_Images/skirt.jpg" width="140" />](https://github.com/elaineocarez/Ocarez_Clothing_Item_Classifier_Classification_FinalProject/raw/main/Class_Images/skirt.jpg) | Lower garment typically worn by women |
+| **Socks** | [<img src="Class_Images/socks.jpg" width="140" />](https://github.com/elaineocarez/Ocarez_Clothing_Item_Classifier_Classification_FinalProject/raw/main/Class_Images/socks.jpg) | Foot garment worn inside shoes |
+| **Polo Shirt** | [<img src="Class_Images/polo_shirt.jpg" width="140" />](https://github.com/elaineocarez/Ocarez_Clothing_Item_Classifier_Classification_FinalProject/raw/main/Class_Images/polo_shirt.jpg) | Shirt with collar, casual-formal style |
+| **Cap** | [<img src="Class_Images/cap.jpg" width="140" />](https://github.com/elaineocarez/Ocarez_Clothing_Item_Classifier_Classification_FinalProject/raw/main/Class_Images/cap.jpg) | Headwear for fashion or sun protection |
+| **Dress** | [<img src="Class_Images/dress.jpg" width="140" />](https://github.com/elaineocarez/Ocarez_Clothing_Item_Classifier_Classification_FinalProject/raw/main/Class_Images/dress.jpg) | One-piece garment worn mainly by women |
 
 </div>
 
